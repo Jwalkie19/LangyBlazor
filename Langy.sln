@@ -5,9 +5,9 @@ VisualStudioVersion = 17.6.33717.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LangyWeb_Server", "LangyWeb_Server\LangyWeb_Server.csproj", "{16C79120-81F8-48C8-B48A-53A6358CB613}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangyWeb_Client", "LangyWeb_Client\LangyWeb_Client.csproj", "{EC8E49D2-4403-4DEA-AC86-B67DF3B0A432}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LangyWeb_Client", "LangyWeb_Client\LangyWeb_Client.csproj", "{EC8E49D2-4403-4DEA-AC86-B67DF3B0A432}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Langy_Models", "Langy_Models\Langy_Models.csproj", "{4F67DA2D-25E3-461E-8068-F24520B6ABB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Langy_Models", "Langy_Models\Langy_Models.csproj", "{4F67DA2D-25E3-461E-8068-F24520B6ABB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
